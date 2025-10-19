@@ -1,6 +1,3 @@
-Com certeza. Aqui está uma documentação detalhada do código operacionalito.c, explicando seu propósito, estrutura e a lógica de escalonamento implementada.
-
-Documentação: Simulador de Escalonador de Processos (Operacionalito)
 1. Visão Geral
 O programa operacionalito.c é um simulador de um escalonador de processos para um sistema operacional fictício. Ele implementa um escalonador preemptivo por prioridade, que também gerencia filas de I/O (Entrada/Saída).
 
