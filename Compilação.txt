@@ -1,0 +1,3 @@
+Instruções:
+gcc operacionalito.c fila.c -o operacionalito
+./operacionalito
